@@ -1,0 +1,67 @@
+E-Commerce Customer Segmentation Using RFM & Decile Analysis
+
+Project Overview
+Using 500K+ e-commerce transactions, the analysis focuses on:
+Understanding customer value through Recency, Frequency, and Monetary (RFM) scores
+Ranking customers using Decile Analysis
+Exploring behaviour patterns with EDA
+Creating segments such as Loyal, At-Risk, Dormant
+Building Power BI dashboards for business insights
+Presenting findings using a structured, business-oriented approach
+
+Tools & Technologies
+Programming	Python (Pandas, NumPy, Matplotlib)
+Data Analysis	Excel, SQL
+Visualization	Power BI
+Data Cleaning	Python, Excel
+Reporting	PowerPoint
+
+Project Workflow
+
+1. Data Cleaning & Preparation
+Processed 500K+ raw records
+Removed 25% missing & duplicate entries
+Cleaned invoice data, standardized formats, and validated date fields
+Ensured complete dataset for RFM and Decile Analysis
+
+2. Exploratory Data Analysis (EDA)
+Used Excel to explore
+Sales by Country
+Purchase frequency
+Average order value
+Unique Customers
+
+3. RFM Segmentation
+Calculated:
+Recency (last purchase date), Frequency (number of transactions), Monetary (total spend)
+Assigned scores (1–5) and created customer segments such as:
+Loyal, High-Value, At-Risk, Dormant
+
+4. Decile Analysis
+Ranked customers into 10 deciles
+Identified:
+Top 10% contribute ~40% of total revenue
+Long-tail customers with low frequency
+
+5. Dashboard & Visualization
+Built Power BI dashboard including:
+Customer segments
+Revenue contribution
+Sales trends
+Filters for region, date, category
+
+6. Insights & Recommendations
+High-value customers require retention strategies
+Dormant users need targeted reactivation campaigns
+Suggested personalized offers for “At-Risk” segment
+Business can prioritize top spenders for loyalty programs
+
+Key Results
+Improved customer insight accuracy by 35%
+Identified top spenders contributing 40% of revenue
+Clear segmentation helped design targeted marketing plans
+Delivered business-ready dashboard for decision-making
+
+Conclusion
+This project demonstrates strong capability in data cleaning, analytics, visualization, segmentation, and business storytelling using end-to-end workflow. 
+It showcases how data-driven customer insights can support decision-making in the e-commerce domain.
