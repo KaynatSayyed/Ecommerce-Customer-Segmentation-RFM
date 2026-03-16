@@ -12,7 +12,7 @@ Decile analysis by revenue contribution
 
 **Key Insights (Impact)**
 Cleaned 25% missing & duplicate data
-Identified Top 10% customers contributing ~40% of total revenue
+Identified Top 10% customers contributing ~60% of total revenue
 Segmented customers into Loyal, At-Risk, Dormant
 Improved insight accuracy by 35%
 
