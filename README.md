@@ -22,3 +22,6 @@ Built Power BI dashboard for sales & customer insights
 
 **Tools**
 SQL | Python | Power BI
+
+**Power BI Dashboard Preview**
+![dashboard-powerbi](https://github.com/user-attachments/assets/b298a09f-21a8-4801-9b65-16d4242364a4)
